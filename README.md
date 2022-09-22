@@ -1,3 +1,3 @@
 # hello-world
 first repository
-I LOVE: INDIA:, :TRAIDITIONS:, :CULTURE:, :FOOD:, AND :DANCE:
+I love :coffee: :pizza:, and :dancer:.
